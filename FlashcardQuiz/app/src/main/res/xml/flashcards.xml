@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcards>
+    <card>
+        <question>What year did World War II end?</question>
+        <answer>1945</answer>
+    </card>
+    <card>
+        <question>What is the chemical symbol for gold?</question>
+        <answer>Au</answer>
+    </card>
+    <card>
+        <question>Who painted the Mona Lisa?</question>
+        <answer>Leonardo da Vinci</answer>
+    </card>
+    <card>
+        <question>What's the largest planet in our solar system?</question>
+        <answer>Jupiter</answer>
+    </card>
+    <card>
+        <question>What element has the atomic number 1?</question>
+        <answer>Hydrogen</answer>
+    </card>
+    <card>
+        <question>Who composed the Ninth Symphony?</question>
+        <answer>Ludwig van Beethoven</answer>
+    </card>
+    <card>
+        <question>What is the longest river in the world?</question>
+        <answer>The Nile River</answer>
+    </card>
+    <card>
+        <question>Who is credited with inventing the telephone?</question>
+        <answer>Alexander Graham Bell</answer>
+    </card>
+    <card>
+        <question>What is the square root of 144?</question>
+        <answer>12</answer>
+    </card>
+    <card>
+        <question>In which year did Christopher Columbus first reach the Americas?</question>
+        <answer>1492</answer>
+    </card>
+</flashcards>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+    <photo>
+        <title>Aliens</title>
+        <file>aliens.jpg</file>
+    </photo>
+    <photo>
+        <title>Axe</title>
+        <file>axe.jpg</file>
+    </photo>
+    <photo>
+        <title>Banana</title>
+        <file>banana.jpg</file>
+    </photo>
+    <photo>
+        <title>Bear</title>
+        <file>bear.jpg</file>
+    </photo>
+    <photo>
+        <title>Blue Orange</title>
+        <file>blueorange.jpg</file>
+    </photo>
+    <photo>
+        <title>Cat</title>
+        <file>cat.jpg</file>
+    </photo>
+    <photo>
+        <title>Eggs</title>
+        <file>eggs.jpg</file>
+    </photo>
+    <photo>
+        <title>Paper</title>
+        <file>paper.jpg</file>
+    </photo>
+    <photo>
+        <title>Paratroopers</title>
+        <file>para.jpg</file>
+    </photo>
+    <photo>
+        <title>Pencils</title>
+        <file>pencils.jpg</file>
+    </photo>
+    <photo>
+        <title>Rose</title>
+        <file>rose.jpg</file>
+    </photo>
+    <photo>
+        <title>Tracks</title>
+        <file>tracks.jpg</file>
+    </photo>
+</photos>
